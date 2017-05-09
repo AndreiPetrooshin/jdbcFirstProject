@@ -1,0 +1,4 @@
+examples\DAO\JdbcBookDAOimpl.class
+examples\Main.class
+examples\DAO\BookDao.class
+examples\model\Book.class
